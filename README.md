@@ -6,7 +6,7 @@ Use the `auth_examples` repo and the `passport-2` branch to reimplement a basic 
 
 ## Getting started
 
-You'll be working from scratch today. It as copy past as you want it to be. However, this is your opportunity form questions for tomorrows review and explanation of the materials.
+You'll be working from scratch today. It will be as much of a copy and paste assignment as you want it to be. However, this is your opportunity form questions for tomorrows review and explanation of the materials.
 
 * fork and clone this repo
 * then do the following just get the right packages installed
