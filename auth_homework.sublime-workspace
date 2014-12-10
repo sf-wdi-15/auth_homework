@@ -1,0 +1,624 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"password",
+				"password_digest"
+			],
+			[
+				"err",
+				"err"
+			],
+			[
+				"num",
+				"num"
+			],
+			[
+				"arr",
+				"arr"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"article",
+				"articles"
+			],
+			[
+				"getELe",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"backgo",
+				"background"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"proto",
+				"proto	Prototype"
+			],
+			[
+				"toS",
+				"toString()	String"
+			],
+			[
+				"getElementBy",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"getElement",
+				"description-document.getElementById()"
+			],
+			[
+				"getElements",
+				"getElementsByClassName(${0:names})	Element"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"font",
+				"font"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"docu",
+				"document	Document"
+			],
+			[
+				"character",
+				"characterSet	Document"
+			],
+			[
+				"shoppi",
+				"shoppingLists"
+			],
+			[
+				"page",
+				"page"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"selected_items":
+		[
+			[
+				"ruler",
+				"CursorRuler: Toggle Enabled/Disabled"
+			],
+			[
+				"high visi",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"high",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"bracket",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"hipster",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"hips",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"levels",
+				"Levels: Update"
+			],
+			[
+				"level",
+				"Levels: Update"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"beauti",
+				"HTMLBeautify"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: for (…) {…}"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"colorschem",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"colorsch",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"colorscheme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"color ",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa insta",
+				"Package Control: Install Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"git status",
+			"exit"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/el-besto/learn/ga-wdi/labs/auth_homework",
+		"/Users/el-besto/learn/ga-wdi/labs/auth_homework/models",
+		"/Users/el-besto/learn/ga-wdi/labs/auth_homework/views",
+		"/Users/el-besto/learn/ga-wdi/labs/auth_homework/views/users"
+	],
+	"file_history":
+	[
+		"/Users/el-besto/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/el-besto/learn/ga-wdi/labs/auth_homework/app.js",
+		"/Users/el-besto/learn/ga-wdi/labs/auth_homework/models/user.js",
+		"/Users/el-besto/learn/ga-wdi/labs/auth_homework/views/site/index.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/auth_homework/views/site/contact.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/auth_homework/views/site/about.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/auth_homework/views/users/show.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/auth_homework/views/users/login.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/auth_homework/views/users/signup.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/auth_homework/models/user-dels.js",
+		"/Users/el-besto/learn/ga-wdi/labs/auth_homework/config/config.json",
+		"/Users/el-besto/learn/ga-wdi/labs/auth_homework/.gitignore",
+		"/Users/el-besto/learn/ga-wdi/labs/auth_homework/package.json",
+		"/Users/el-besto/learn/ga-wdi/classwork/wk4-javascriptIntermediate/wk4-day13DawnAuthenticationAndAuthorization.html",
+		"/Users/el-besto/learn/ga-wdi/classwork/.gitignore",
+		"/Users/el-besto/learn/ga-wdi/classwork/wk4-javascriptIntermediate/wk4-day13DawnAuthenticationAndAuthorization.md",
+		"/Users/el-besto/learn/ga-wdi/classwork/wk4-javascriptIntermediate/wk4-day12DawnSequelize.md",
+		"/Users/el-besto/learn/ga-wdi/classwork/wk4-javascriptIntermediate/problemOfDay-Divide and conquor Continued.js",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/views/site/contact.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/views/site/index.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/views/site/about.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/views/articles/show.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/views/articles/new.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/views/articles/index.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/app.js",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/public/styles/css/custom.css",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/models/article.js",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/README.md",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/schema.sql",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/config.js",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/articles.js",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/.gitignore",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/console.js",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/package.json",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/config/config.json",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/models/articles.js",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/models/user.js",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/routes/siteRoutes.js",
+		"/Users/el-besto/Library/Application Support/Sublime Text 3/Packages/User/CursorRuler.sublime-settings",
+		"/Users/el-besto/Library/Application Support/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/Users/el-besto/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/views/articles/test.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/news_feed/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/examples/sum.js",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/views/articles/id.ejs",
+		"/Users/el-besto/learn/ga-wdi/outcomes/Ranges depending on experience.txt",
+		"/Users/el-besto/learn/ga-wdi/classwork/wk3-javascript/wk3-day09ProblemOfDay-mergeIntoSortingAlgorithm.js",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/public/contact.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/public/about.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/new_feed_2/views/new.ejs",
+		"/Users/el-besto/learn/ga-wdi/classwork/wk3-javascript/wk3-day11Dawn-expressSQL.md",
+		"/Users/el-besto/learn/ga-wdi/classwork/wk3-javascript/wk3-day11Dusk-exploreNodePg.md",
+		"/Users/el-besto/learn/ga-wdi/classwork/wk3-javascript/delete.html",
+		"/Users/el-besto/example.sql",
+		"/Users/el-besto/.zshrc",
+		"/Users/el-besto/learn/ga-wdi/classwork/1-subl.css",
+		"/Users/el-besto/hw/views/articles/new.ejs",
+		"/Users/el-besto/hw/views/articles/index.ejs",
+		"/Users/el-besto/hw/index.js",
+		"/Users/el-besto/hw/views/site/index.ejs",
+		"/Users/el-besto/hw/views/site/about.ejs",
+		"/Users/el-besto/hw/views/site/contact.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/news_feed/views/site/index.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/news_feed/index.js",
+		"/Users/el-besto/learn/ga-wdi/labs/news_feed/views/site/contact.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/news_feed/views/articles/new.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/news_feed/views/articles/id.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/news_feed/views/articles/index.ejs",
+		"/Users/el-besto/learn/ga-wdi/labs/news_feed/public/index.html",
+		"/Users/el-besto/learn/ga-wdi/labs/news_feed/views/site/about.ejs",
+		"/Users/el-besto/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/el-besto/learn/ga-wdi/labs/news_feed/views/site/about.html",
+		"/Users/el-besto/learn/ga-wdi/labs/FunctionsLab/letterCount(word).js",
+		"/Users/el-besto/learn/ga-wdi/labs/FunctionsLab/numSquare(max).js",
+		"/Users/el-besto/learn/ga-wdi/labs/FunctionsLab/primes(max).js",
+		"/Users/el-besto/learn/ga-wdi/labs/FunctionsLab/isPrime(num).js",
+		"/Users/el-besto/learn/ga-wdi/labs/FunctionsLab/sillySum(arr).js",
+		"/Users/el-besto/learn/ga-wdi/labs/thanks-lab/memory/memGame.html",
+		"/Users/el-besto/learn/ga-wdi/labs/thanks-lab/memory/memGame.js",
+		"/Users/el-besto/learn/ga-wdi/labs/thanks-lab/memory/memGame.css",
+		"/Users/el-besto/learn/ga-wdi/labs/FunctionsLab/merge(arr1, arr2).js",
+		"/Users/el-besto/learn/ga-wdi/classwork/fizzBuzz.js",
+		"/Users/el-besto/learn/ga-wdi/classwork/wk1-javascriptFundamentals/wk1-review.js",
+		"/Users/el-besto/learn/ga-wdi/labs/thanks-lab/memory/index.html",
+		"/Users/el-besto/learn/ga-wdi/labs/thanks-lab/memory/style.css",
+		"/Users/el-besto/learn/ga-wdi/labs/thanks-lab/memory/script-example.js",
+		"/Users/el-besto/learn/ga-wdi/labs/thanks-lab/memory/script.js",
+		"/Users/el-besto/learn/ga-wdi/labs/thanks-lab/index.html",
+		"/Users/el-besto/learn/ga-wdi/classwork/scratchPad.js",
+		"/Users/el-besto/learn/ga-wdi/classwork/wk1-Day07Dawn-prototypes-and-inheritance.js",
+		"/Users/el-besto/learn/ga-wdi/classwork/wk1-review.js",
+		"/Users/el-besto/learn/ga-wdi/classwork/recursion.js",
+		"/Users/el-besto/learn/ga-wdi/classwork/day07Dusk-prototypical-inheritence.js",
+		"/Users/el-besto/learn/ga-wdi/labs/calculatorLab/calculator.html",
+		"/Users/el-besto/learn/ga-wdi/labs/calculatorLab/calculator.js",
+		"/Users/el-besto/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/el-besto/Library/Application Support/Sublime Text 3/Packages/User/Color Highlighter/themes/Railscasts Extended.tmTheme",
+		"/Users/el-besto/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/el-besto/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/el-besto/Library/Application Support/Sublime Text 3/Packages/User/RailsCastsColorScheme (SL).tmTheme",
+		"/Users/el-besto/Library/Application Support/Sublime Text 3/Packages/User/Color Highlighter/themes/RailsCastsColorScheme (SL).tmTheme",
+		"/Users/el-besto/Library/Application Support/Sublime Text 3/Packages/Railscasts Extended/Railscasts Extended.tmTheme",
+		"/Users/el-besto/Library/Application Support/Sublime Text 3/Packages/User/Solarized (Light) (SL).tmTheme",
+		"/Users/el-besto/Library/Application Support/Sublime Text 3/Packages/CursorRuler/CursorRuler.sublime-settings",
+		"/Users/el-besto/learn/ga-wdi/classwork/day06Dusk- Functional Programming and Iterators.js",
+		"/Users/el-besto/test/test/mocha-test.js",
+		"/Users/el-besto/learn/ga-wdi/labs/iterators_lab/test/indexOf.js",
+		"/Users/el-besto/learn/ga-wdi/labs/iterators_lab/test/last.js",
+		"/Users/el-besto/learn/ga-wdi/labs/iterators_lab/test/each.js",
+		"/Users/el-besto/learn/ga-wdi/labs/iterators_lab/test/first.js",
+		"/Users/el-besto/learn/ga-wdi/labs/iterators_lab/test/map.js",
+		"/Users/el-besto/learn/ga-wdi/labs/iterators_lab/README.md",
+		"/Users/el-besto/learn/ga-wdi/labs/tictactoe_js/index.html",
+		"/Users/el-besto/learn/ga-wdi/labs/iterators_lab/test/example.js",
+		"/Users/el-besto/learn/ga-wdi/classwork/day06Morning-objects.js",
+		"/Users/el-besto/learn/ga-wdi/classwork/day06-Morning-testing.js",
+		"/Users/el-besto/learn/ga-wdi/projects/npmTestProject/package.json",
+		"/Users/el-besto/learn/ga-wdi/classwork/problemOfDay-factorial.js",
+		"/Users/el-besto/learn/ga-wdi/labs/tictactoe_js/style.css",
+		"/Users/el-besto/learn/ga-wdi/labs/tictactoe_js/ticTackToe.js",
+		"/Users/el-besto/learn/ga-wdi/jobHunt-agency",
+		"/Users/el-besto/learn/ga-wdi/jobHunt.md",
+		"/Users/el-besto/learn/ga-wdi/labs/calculatorLab/style.css",
+		"/Users/el-besto/learn/ga-wdi/labs/calculatorLab/README.md",
+		"/Users/el-besto/learn/ga-wdi/labs/calculatorLab/calculatorAngelo.js",
+		"/Users/el-besto/learn/ga-wdi/jobHunt-apprentice.md",
+		"/Users/el-besto/learn/ga-wdi/classwork/pattern-letterCount.js",
+		"/Users/el-besto/learn/ga-wdi/classwork/ketPattern_letterCount(word).js",
+		"/Users/el-besto/learn/ga-wdi/classwork/swap.js"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n    \"username\": \"root\",\n    \"password\": null,",
+			"\"username\": \"root\",",
+			"%",
+			"Lab",
+			"cons",
+			"mysql",
+			"\"username\": \"root\",\n    \"password\": null,",
+			"mysql",
+			"\"username\": \"root\",\n    \"password\": null,",
+			"footer",
+			"role=\"conte",
+			"img",
+			"block",
+			"callout",
+			"href",
+			"callout",
+			"redirect",
+			"show",
+			"article.id",
+			"<%",
+			"client",
+			"body",
+			"new",
+			"book",
+			"title",
+			"css",
+			"'",
+			"path",
+			"Bryan",
+			"<cite>",
+			"small",
+			"medium",
+			"map",
+			"form",
+			"class=\"button\"",
+			"search",
+			"complete",
+			"#333435<",
+			"#333435 ",
+			"333435",
+			"lineHighlight",
+			"highlight",
+			"rails",
+			"text",
+			"foreground",
+			"default",
+			"background",
+			"test",
+			"'X'",
+			"currentPlayer",
+			"curre",
+			"ul",
+			"li",
+			"fa fa-square-o",
+			"row",
+			"td",
+			"table",
+			"padding",
+			"#888",
+			"bitnami",
+			"display",
+			"alert(this.innerHTML);",
+			"HTML()",
+			"()",
+			"return",
+			"innerHTML();",
+			"capy",
+			"jqu",
+			"launch",
+			"school that",
+			"emphasize",
+			"width"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 154.0
+	},
+	"output.markdown":
+	{
+		"height": 154.0
+	},
+	"project": "auth_homework.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sort",
+				"wk3-javascript/wk3-day09ProblemOfDay-mergeIntoSortingAlgorithm.js"
+			],
+			[
+				"",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/Color Highlighter/themes/Railscasts Extended.tmTheme"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
