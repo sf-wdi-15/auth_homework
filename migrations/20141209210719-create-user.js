@@ -11,8 +11,11 @@ module.exports = {
       email: {
         type: DataTypes.STRING
       },
-      password: {
+      password_digest: {
         type: DataTypes.STRING
+      },
+      authorId: {
+        type: DataTypes.INTEGER
       },
       createdAt: {
         allowNull: false,

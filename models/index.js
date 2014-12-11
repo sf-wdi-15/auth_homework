@@ -24,7 +24,9 @@ Object.keys(db).forEach(function(modelName) {
   }
 });
 
-db.sequelize = sequelize;
-db.Sequelize = Sequelize;
+db.sequelize = sequelize; //connection, instance
+db.Sequelize = Sequelize; //general 
 
 module.exports = db;
+
+//requres files so we don't have to do it every time
